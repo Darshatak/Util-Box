@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Util-Box</string>
+
+    <string name="translate_loading">Translate button will be enabled after translation model is downloaded.\n\nPlease wait…</string>
+    <string name="translate_btn">Translate</string>
+    <string name="smart_reply_error">The conversation\'s language isn\'t supported, so the result doesn\'t contain any suggestions.</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+
+
+    <string name="lock_your_device">Lock your device</string>
+    <string name="pin">or pin this app and tap here:</string>
+    <string name="view">View</string>
+
+    <string name="permission">Please enable storage permission for this photo</string>
+    <string name="invalid">A file is invalid and can not be displayed.</string>
+</resources>
